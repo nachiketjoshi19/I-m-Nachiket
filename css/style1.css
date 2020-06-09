@@ -1,0 +1,84 @@
+body {
+    margin: 0px;
+    padding: 0;
+}
+
+.navigation-bar {
+    height: 150px;
+    width: 100%;
+    display: block;
+    background-color: #c3edea;
+}
+
+.profile {
+    width: 120px;
+    height: 110px;
+    padding-top: 15px;
+    position: relative;
+    left: 100px;
+}
+
+.nav-click {
+    display: inline;
+    color: #007892;
+    text-decoration: none;
+    font-size: x-large;
+    position: relative;
+    left: 65%;
+    bottom: 50px;
+    padding-right: 20px;
+    padding-left: 20px;
+    text-shadow: 0.7px 0.7px #347786;
+}
+
+.nav-click:hover {
+    background-color: #35d0ba;
+    cursor: pointer;
+}
+
+.top {
+    background-color: #c3edea;
+    position: relative;
+    height: 400px;
+    width: 100vw;
+    bottom: 20px;
+}
+
+.work {
+    width: 400px;
+    position: relative;
+    margin: auto;
+    font-family: 'Sriracha', cursive;
+    color: rgb(47, 191, 207);
+    font-size: 70px;
+    text-shadow: 5px 5px rgb(50, 91, 95);
+    top: 3 0px;
+    left: 100px;
+}
+
+.flag {
+    position: relative;
+    top: 205px;
+    left: 230px;
+}
+
+.star {
+    width: 150px;
+    position: relative;
+    left: 69%;
+    bottom: 130px;
+}
+
+.middle {
+    background-color: lightcoral;
+    height: 100vh;
+    position: relative;
+    bottom: 20px;
+}
+
+.bottom {
+    background-color: bisque;
+    height: 100vh;
+    position: relative;
+    bottom: 20px;
+}
