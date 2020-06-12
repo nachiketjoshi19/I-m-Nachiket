@@ -122,6 +122,7 @@ hr {
     position: relative;
     left: 550px;
     bottom: 200px;
+z-index: 1;
 }
 
 .title {
